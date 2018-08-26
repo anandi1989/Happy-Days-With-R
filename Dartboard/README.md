@@ -16,6 +16,6 @@ If `N` number of dart is thrown at random so that dart points fill up the board 
 
 where, 
 
-`N_o` are the count of points that satisfy <img src="https://latex.codecogs.com/gif.latex?x^2&plus;y^2&space;<=1" title="x^2+y^2 <=1" /> 
+<img src="https://latex.codecogs.com/gif.latex?N_o" title="N_o" /> are the count of points that satisfy <img src="https://latex.codecogs.com/gif.latex?x^2&plus;y^2&space;<=1" title="x^2+y^2 <=1" /> 
 
 
