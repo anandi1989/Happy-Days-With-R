@@ -1,7 +1,7 @@
-## \Pi by Dartboard
+## <img src="https://latex.codecogs.com/gif.latex?\pi" title="\pi" /> by Dartboard
 
-The celebrated number \Pi can be estimated through darts thrown at random at a simplistic dartboard. Simulate the experiment of throwing N random darts at this dartboard so that they fill up the dartboard 
-with uniform density. Using this, estimate the value of \pi.
+The celebrated number <img src="https://latex.codecogs.com/gif.latex?\pi" title="\pi" /> can be estimated through darts thrown at random at a simplistic dartboard. Simulate the experiment of throwing N random darts at this dartboard so that they fill up the dartboard 
+with uniform density. Using this, estimate the value of <img src="https://latex.codecogs.com/gif.latex?\pi" title="\pi" />.
 
 ## Solutions
 
