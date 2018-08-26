@@ -9,11 +9,16 @@ In order to solve the problem let's consider,
 The [density of an ideal gas under gravity](https://en.wikipedia.org/wiki/Barometric_formula#Density_equations) varies with the height `y` (measured from the surface upwards) as,
 
 <img src="https://latex.codecogs.com/gif.latex?\rho(y)&space;=&space;\rho_0&space;\exp(-\frac{mg}{k_BT}y)" title="\rho(y) = \rho_0 \exp(-\frac{mg}{k_BT}y)" />
-where, 
+where,
+
 `m` is mass of a molecule
+
 `g` is Gravitational Constant 
+
 <img src="https://latex.codecogs.com/gif.latex?k_B" title="k_B" /> is Boltzmann Constant
+
 `T` is the Temerature of the gas
+
 <img src="https://latex.codecogs.com/gif.latex?\rho_0" title="\rho_0" /> is the density at the ground level, `y = 0`. 
 
 and 
@@ -28,6 +33,7 @@ Let's assume, <img src="https://latex.codecogs.com/gif.latex?\lambda&space;=&spa
 
 In order to excute below libraries are required: 
 
-	*`misc3d`
-	*`rgl`
+*`misc3d`
+
+*`rgl`
 
