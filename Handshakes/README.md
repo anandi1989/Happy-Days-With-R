@@ -11,15 +11,15 @@ Let, consider Number of Comp. Sci and Biologists are `m` and `n` respectively.
 
 In mathematical expressing for in group handshakes will be :
 
-`\binom{n}{2} + \binom{m}{2} = 102 --- (1)`
+<img src="https://latex.codecogs.com/gif.latex?\binom{n}{2}&space;&plus;&space;\binom{m}{2}&space;=&space;102" title="\binom{n}{2} + \binom{m}{2} = 102" />
 
 In mathematical expressing for across the group handshakes will be :
 
-`mn = 108 ---(2)`
+<img src="https://latex.codecogs.com/gif.latex?mn=108" title="mn=108" />
 
 Now, by solving both the equations we get:
 
-`(n^4)-(n^3)-(204(n^2))-(108n)+(108^2)=0`
+<img src="https://latex.codecogs.com/gif.latex?(n^4)-(n^3)-(204*(n^2))-(108*n)&plus;(108^2)=0" title="(n^4)-(n^3)-(204*(n^2))-(108*n)+(108^2)=0" />
 
 Solving for `n` will have the answer to our problem. 
 
