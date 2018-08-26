@@ -1,3 +1,5 @@
+#Author : Amit Nandi
+#Dated : 23rd Oct, 2018
 root<-function(x)
 {
 	epsilon<-1e-08 #conditon
