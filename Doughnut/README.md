@@ -1,4 +1,4 @@
-## Introduction
+## Hol(e)y polynomial doug
 
 Plot the complex roots of all polynomials with degree 10  and coefficients. 
 
