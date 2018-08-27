@@ -1,4 +1,4 @@
-## Introduction
+## Square root, the ancient way
 
 The Babylonian method for computing the square root of a positive real number `S`: Start with any arbitrary <img src="https://latex.codecogs.com/gif.latex?x_0" title="x_0 > 0" /> , and iterate `(n =
 0, 1, ...)`
