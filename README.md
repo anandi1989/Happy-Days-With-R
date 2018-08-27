@@ -6,5 +6,5 @@ All the details of the problemset and associated **R** code and outcomes is avai
 
 If you see any mistake, please let me know by opening a new issue. 
 
-### Note
+#### Note
 This exercise was part of the course, ***Perspectives of Probalibity Modeling - I***, instructed by [Dr. Mihir Arjunwadkar](http://cms.unipune.ac.in/~mihir/)
