@@ -1,4 +1,4 @@
-## Introduction 
+## Scrambled eggs under gravity 
 
 A hypothetical comic-book planet with normal Newtonian gravity happens to have an atmosphere consisting of two entities, `A` and `B` , in the 1:2 proportion. The two entities have the same mass, and behave asideal gases, and do not interact with each other in any way. Create a two-dimensional snapshot of this atmosphere, where one of the dimensions is the direction of gravity (i.e., the vertical direction),  and the other one is any direction that is perpendicular to the vertical.
 
